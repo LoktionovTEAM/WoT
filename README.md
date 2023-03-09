@@ -7,7 +7,7 @@
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-App-lightgrey" alt="React App"></a>
 <a href="https://www.linkedin.com/in/loktionovteam/"><img src="https://img.shields.io/badge/Developed%20by-LoktionovTEAM-success" alt="LoktionovTEAM"></a>
 <a href="https://mit-license.org/"><img src="https://img.shields.io/badge/License-MIT-blueviolet" alt="License MIT"></a>
-<a href="https://github.com/LoktionovTEAM/Organick/archive/refs/heads/main.zip"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/LoktionovTEAM/Organick?color=red"></a>
+<a href="https://github.com/LoktionovTEAM/WoT/archive/refs/heads/main.zip"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/LoktionovTEAM/WoT?color=red"></a>
 </p>
 
 <p align="center"> встречайте мое новое React приложение с открытым исходным кодом, все также реализованное с использованием последних современных технологий мира разработки. </br>
