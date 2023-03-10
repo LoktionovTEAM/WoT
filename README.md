@@ -126,11 +126,11 @@
 </b></details>
 <details>
 <summary> WORLD of TANKS  </summary><br><b>
-<a href="#"><img src="./screens/video-link.png" alt="video WORLD of TANKS"></a>
+<a href="https://vk.com/video773585890_456239022"><img src="./screens/video-link.png" alt="video WORLD of TANKS"></a>
 </b></details>
 </br>
 
-## 🔨 **Демо:** <a href="#">*пощупать*</a> 👈
+## 👉 **Демо:** <a href="#">*пощупать*</a> 👈
 
 </br>
 
