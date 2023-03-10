@@ -2,7 +2,11 @@
 	"name": "wot",
 	"version": "0.1.0",
 	"private": true,
-	"author": "LoktionovTEAM",
+	"author": {
+		"name": "LoktionovTEAM",
+		"email": "LoktionovTEAM@yandex.ru",
+		"url": "https://github.com/LoktionovTEAM"
+	},
 	"license": "MIT",
 	"dependencies": {
 		"@reduxjs/toolkit": "^1.8.6",
